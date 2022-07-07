@@ -1,6 +1,6 @@
 # Discord.JS-Handler
 
-**_ CURRENTLY WE DON'T SUPPORT SLASH COMMANDS _**
+** CURRENTLY WE DON'T SUPPORT SLASH COMMANDS **
 
 **To Do List:** ❎✅
 
